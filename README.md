@@ -4,3 +4,4 @@ Developed an engaging website showcasing my favorite video games, enhancing user
 
 EXAMPLE:
 
+![game_website](https://github.com/NghiaLam2026/Favorite_game_website/assets/118234173/812c79d2-4646-47ed-a7ee-6ceeb3d3653c)
