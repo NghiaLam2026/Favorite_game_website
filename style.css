@@ -1,0 +1,187 @@
+body{
+    background-color: #E5CFF7;
+}
+
+/*NAVIGATION BAR*/
+.nav_bar{
+    border-radius: 5px;
+    background-color: #D8B4F8;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 25px;
+}
+.nav_bar ul li{
+    display: inline-block;
+    margin: 0 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.nav_bar ul li a{
+    color: black;
+    font-size: 20px;
+    padding: 7px 13px;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+#website_title{
+    border-radius: 10px;
+    background-color: #D8B4F8;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 750px;
+    margin-right: 750px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 25px;
+}
+/*NAVIGATION BAR*/
+
+
+/*SEKIRO DIV SECTION*/
+.samurai{
+    border-radius: 10px;
+    background-color: #D8B4F8;
+    text-align: center;
+    margin-left: 60px;
+    margin-right: 1175px;
+    margin-top: -95px;
+    padding-bottom: 100px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.slider-controls{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+.slider-controls #slider-image1{
+    background-position: center;
+}
+.slider-controls #slider-image2{
+    background-position: center;
+}
+.slider-controls #slider-image3{
+    background-position: center;
+}
+.slider-control #slider-image4{
+    background-position: center;
+}
+
+#slider-image2, #slider-image3, #slider-image4{
+    display:none;
+}
+.arrow{
+    border: solid black;
+    border-width: 0 5px 5px 0;
+    display: inline-block;
+    padding: 5px;
+    transition: 0.3s;
+}
+.right{
+    transform: rotate(-45deg);
+    margin-bottom: 10px;
+}
+.left{
+    transform: rotate(135deg);
+    margin-top: 10px
+}
+.arrow:hover{
+    background: #E5CFF7;
+    transition: 0.3s;
+}
+/*SEKIRO DIV SECTION*/
+
+
+/*STARDEW VALLEY DIV SECTION*/
+.farmer{
+    border-radius: 10px;
+    text-align: center;
+    background-color: #D8B4F8;
+    margin-left: 1175px;
+    margin-right: 60px;
+    margin-top: -785px;
+    padding-bottom: 100px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.slider-controls{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+.slider-controls #slider-image5{
+    background-position: center;
+    
+}
+
+.slider-controls #slider-image6{
+    background-position: center;
+
+}
+.slider-controls #slider-image7{
+    background-position: center;
+
+}
+
+.slider-control #slider-image8{
+    background-position: center;
+}
+
+#slider-image6, #slider-image7, #slider-image8{
+    display:none;
+}
+
+.arrow2{
+    border: solid black;
+    border-width: 0 5px 5px 0;
+    display: inline-block;
+    padding: 5px;
+    transition: 0.3s;
+}
+.right2{
+    transform: rotate(-45deg);
+    margin-bottom: 10px;
+    margin-top: 16px;
+}
+.left2{
+    transform: rotate(135deg);
+    margin-top: 10px;
+}
+.arrow2:hover{
+    background: #E5CFF7;
+    transition: 0.3s;
+}
+/*STARDEW VALLEY DIV SECTION*/
+
+
+img{
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    border: 8px solid #E5CFF7;
+    border-radius: 5px;
+}
+h4{
+    padding: 25px;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+p{
+    text-decoration: underline;
+    font-family: 'Quicksand', sans-serif;
+}
+a:link{
+    transition: 0.3s;
+    font-family: 'Quicksand', sans-serif;
+}
+a:hover{
+    background: #E5CFF7;
+    transition: 0.3s;
+}
+
+
+
