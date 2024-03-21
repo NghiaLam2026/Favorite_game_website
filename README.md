@@ -9,4 +9,4 @@ Developed an engaging website showcasing my favorite video games, enhancing user
 <br>
 <br>
 <br>
-### LIVE WEBSITE: https://nghialam2026.github.io/Favorite_game_website/
+### LIVE WEBSITE: https://nghialam2026.github.io/Favorite_game_website/ 🌟
